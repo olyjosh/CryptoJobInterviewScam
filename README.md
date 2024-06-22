@@ -1,3 +1,6 @@
+# WARNING: This code was used in coding job interview scam. Only run it if you know what you are doing and don't connect to a EVM wallet that has fund or will in future have funds or crypto asset in it. This warning is the only added line of code from me for blogging purpose
+
+
 # UltraX Dex Platform
 
 **What is UltraX?**
